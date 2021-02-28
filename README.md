@@ -1,4 +1,4 @@
-This addon is continuation of Glumatimate addon `Search and Replace Tags` located at https://ankiweb.net/shared/info/138501288.
+This addon is enhancement of Glutaminate addon `Search and Replace Tags` located at https://ankiweb.net/shared/info/138501288.
 
 I found few things missing in the original addon, so I created my this repo. 
 
